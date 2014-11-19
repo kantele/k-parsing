@@ -1,5 +1,5 @@
 {
-  "name": "derby-parsing",
+  "name": "k-parsing",
   "version": "0.2.2",
   "description": "Add HTML template parsing to Derby",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/derby-parsing.git"
+    "url": "git://github.com/kantele/k-parsing.git"
   },
   "keywords": [
     "derby"
@@ -16,12 +16,12 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeparty/derby-parsing/issues"
+    "url": "https://github.com/kantele/k-parsing/issues"
   },
   "dependencies": {
-    "derby-templates": "^0.1.12",
-    "esprima-derby": "~0.1.0",
-    "html-util": "~0.2.0"
+    "k-templates": "^0.1.12",
+    "k-esprima": "~0.1.0",
+    "k-html-util": "~0.2.0"
   },
   "devDependencies": {
     "expect.js": "~0.3.1",

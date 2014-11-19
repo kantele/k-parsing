@@ -1,5 +1,5 @@
 var expect = require('expect.js');
-var derbyTemplates = require('derby-templates');
+var derbyTemplates = require('k-templates');
 var contexts = derbyTemplates.contexts;
 var templates = derbyTemplates.templates;
 var parsing = require('../lib/index');

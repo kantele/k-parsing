@@ -1,5 +1,5 @@
 var expect = require('expect.js');
-var derbyTemplates = require('derby-templates');
+var derbyTemplates = require('k-templates');
 var contexts = derbyTemplates.contexts;
 var expressions = derbyTemplates.expressions;
 var create = require('../lib/createPathExpression');

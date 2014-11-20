@@ -1,6 +1,6 @@
 {
   "name": "k-parsing",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Add HTML template parsing to Derby",
   "main": "lib/index.js",
   "scripts": {

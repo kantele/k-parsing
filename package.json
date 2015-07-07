@@ -1,6 +1,6 @@
 {
   "name": "k-parsing",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Add HTML template parsing to Derby",
   "main": "lib/index.js",
   "scripts": {
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "k-templates": "*",
-    "k-esprima": "^0.1.0",
-    "k-html-util": "^0.2.0"
+    "k-esprima": "*",
+    "k-html-util": "*"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",

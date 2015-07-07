@@ -19,7 +19,7 @@
     "url": "https://github.com/kantele/k-parsing/issues"
   },
   "dependencies": {
-    "k-templates": "^0.1.12",
+    "k-templates": "*",
     "k-esprima": "^0.1.0",
     "k-html-util": "^0.2.0"
   },
